@@ -1,0 +1,38 @@
+{
+    "questions":[
+        {"qid":1,"question":"In which sports does Lewis Hamilton participate in?","ans1":"football","ans2":"F1 Racing","ans3":"Tennis","ans4":"Swimming"},
+        {"qid":2,"question":"How many UCL has Real Madrid won?","ans1":12,"ans2":13,"ans3":14,"ans4":15},
+        {"qid":3,"question":"How many majors has Tiger Woods won?","ans1":12,"ans2":13,"ans3":14,"ans4":15},
+        {"qid":4,"question":"How many grand slams did Serena Williams win?","ans1":20,"ans2":21,"ans3":22,"ans4":23},
+        {"qid":5,"question":"Who is Roland Garros?","ans1":"Tennis player","ans2":"Fighter Pilot","ans3":"French President","ans4":"Scientist"},
+        {"qid":6,"question":"Who is the first President of Ghana?","ans1":"Kwame Nkrumah","ans2":"JJ Rawlings","ans3":"J.A. Kuffour","ans4":"Gen Kutu Acheampong"},
+        {"qid":7,"question":"Which of the following is a primary color?","ans1":"white","ans2":"grey","ans3":"black","ans4":"none of the above"},
+        {"qid":8,"question":"How many NSMQ has Presec Legon won?","ans1":12,"ans2":13,"ans3":7,"ans4":15},
+        {"qid":9,"question":"In which region can you find Cape Coast Castle?","ans1":"Central","ans2":"Northen","ans3":"Eastern","ans4":"Western"},
+        {"qid":10,"question":"What is the square root of 4?","ans1":1,"ans2":2,"ans3":3,"ans4":4},
+        {"qid":11,"question":"What is the past tense of come?","ans1":"came","ans2":"gone","ans3":"go","ans4":"sent"},
+        {"qid":12,"question":"Ghana flag has all these colors except?","ans1":"red","ans2":"gold","ans3":"green","ans4":"white"},
+        {"qid":13,"question":"Ghana has all these minerals in commercial quantities except?","ans1":"gold","ans2":"bauxite","ans3":"iron","ans4":"diamond"},
+        {"qid":14,"question":"Which of the following is not part of the solar system?","ans1":"earth","ans2":"mars","ans3":"mercury","ans4":"pluto"},
+        {"qid":15,"question":"Which of the following is a member of the cat family?","ans1":"tiger","ans2":"dog","ans3":"monkey","ans4":"ant"}
+
+
+    ],
+    "answers":[
+        {"qid":1,"correctAns":"F1 Racing"},
+        {"qid":2,"correctAns":14},
+        {"qid":3,"correctAns":14},
+        {"qid":4,"correctAns":23},
+        {"qid":5,"correctAns":"Fighter Pilot"},
+        {"qid":6,"correctAns":"Kwame Nkrumah"},
+        {"qid":7,"correctAns":"none of the above"},
+        {"qid":8,"correctAns":7},
+        {"qid":9,"correctAns":"Central"},
+        {"qid":10,"correctAns":2},
+        {"qid":11,"correctAns":"came"},
+        {"qid":12,"correctAns":"white"},
+        {"qid":13,"correctAns":"iron"},
+        {"qid":14,"correctAns":"pluto"},
+        {"qid":15,"correctAns":"tiger"}
+    ]
+}
